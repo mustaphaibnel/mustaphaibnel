@@ -1,33 +1,33 @@
-### Hi there 👋
 # Hello, I'm Mustapha Ibnel 👋
 
 ## About Me
-I'm an experienced manager with a strong background in [your field of expertise]. I'm passionate about [specific interests related to your field], and I'm always excited to collaborate on projects that challenge me and help me grow.
+I'm an experienced System Administrator and Full Stack Developer with a strong background in the IT industry. I am passionate about leveraging my skills in various technologies to develop efficient solutions and streamline processes.
 
 ## My Skills
-- **Technical Skills**: List down all the technical skills you possess. 
-- **Management Skills**: List down all the management skills you possess.
-- **Languages**: List down the languages you are proficient in.
+- **Technical Skills**: System and Network Administration, Web & Mobile Application Development, Preventive System Maintenance, Automation of Deployments, Cloud Computing, Windows, Linux Servers
+- **Management Skills**: Task Prioritization, Team Leadership, Strategic Planning, Problem-Solving, Time Management.
+- **Languages**: Arabic, English, French.
 
 You can also see a detailed roadmap of my skills here:
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b5f7f40a49b0be0ed77f8b?variant=dark)](https://roadmap.sh)
 
 ## Experience
-Here, you can add your work experiences with brief descriptions about your role, responsibilities, achievements, and what you learned.
+- Full Stack Developer and System Administrator at a leading IT firm: Leveraged my skills in web and mobile development to create robust, scalable applications. Implemented continuous integration/continuous deployment (CI/CD) pipelines for efficient software deployment. Administered Windows Server and various network systems, created automated solutions for system management, and maintenance. Worked extensively with cross-platform solutions to meet diverse business needs.
 
 ## Projects
-List down some of the significant projects you've worked on, their purposes, and what you achieved through them. You can also add links to the projects if they are hosted somewhere.
+- MobileAppPro Platform (AWS & Google Cloud versions): Developed a comprehensive platform for mobile app management and growth using various frontend and backend technologies.
+- Network and Server Health Monitoring Platform: Deployed Elastic Stack to monitor network traffic and server health for a variety of devices.
 
 ## What I'm currently learning 
-This is a great place to share what you're currently studying or working on, and what you're excited about in your field.
+I'm currently focused on expanding my expertise in cloud computing services such as AWS and Google Cloud, and how these can be harnessed to optimize and scale applications.
 
-![Mustapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub username]&show_icons=true&theme=tokyonight)
+![Mustapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustaphaibnel&show_icons=true&theme=tokyonight)
 
 ## How to reach me 
-Feel free to reach out if you're looking for a manager, have a question, or just want to connect.
+Feel free to reach out if you're looking for a system administrator or full stack developer, have a question, or just want to connect.
 
-- 📧 Mail me at: [YourEmail]
-- 🗨️ Connect with me on [LinkedIn](https://linkedin.com/in/[YourLinkedIn])
-- 🐦 Follow me on [Twitter](https://twitter.com/[YourTwitter])
-- 📸 See my life on [Instagram](https://instagram.com/[YourInstagram])
+- 📧 Mail me at: mustapha.ibnel@mail.com
+- 🗨️ Connect with me on [LinkedIn](https://linkedin.com/in/mustaphaibnel)
+- 🐦 Follow me on [Twitter](https://twitter.com/mustaphaibnel)
+- 📸 See my life on [Instagram](https://instagram.com/mustaphaibnel)
