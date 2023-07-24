@@ -10,7 +10,7 @@ I'm an experienced System Administrator and Full Stack Developer with a strong b
 
 You can also see a detailed roadmap of my skills here:
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b5f7f40a49b0be0ed77f8b?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b5f7f40a49b0be0ed77f8b?variant=dark)](https://roadmap.sh)
 
 ## Experience
 - Full Stack Developer and System Administrator at a leading IT firm: Leveraged my skills in web and mobile development to create robust, scalable applications. Implemented continuous integration/continuous deployment (CI/CD) pipelines for efficient software deployment. Administered Windows Server and various network systems, created automated solutions for system management, and maintenance. Worked extensively with cross-platform solutions to meet diverse business needs.
