@@ -8,7 +8,9 @@ I'm an experienced manager with a strong background in [your field of expertise]
 - **Technical Skills**: List down all the technical skills you possess. 
 - **Management Skills**: List down all the management skills you possess.
 - **Languages**: List down the languages you are proficient in.
+You can also see a detailed roadmap of my skills here:
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b5f7f40a49b0be0ed77f8b?variant=dark)](https://roadmap.sh)
 ## Experience
 Here, you can add your work experiences with brief descriptions about your role, responsibilities, achievements, and what you learned.
 
