@@ -13,7 +13,7 @@ You can also see a detailed roadmap of my skills here:
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b5f7f40a49b0be0ed77f8b?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend%2Cdevops)](https://roadmap.sh)
 
 ## Experience
-- Full Stack Developer and System Administrator at a leading IT firm: Leveraged my skills in web and mobile development to create robust, scalable applications. Implemented continuous integration/continuous deployment (CI/CD) pipelines for efficient software deployment. Administered Windows Server and various network systems, created automated solutions for system management, and maintenance. Worked extensively with cross-platform solutions to meet diverse business needs.
+- Full Stack Developer and System Administrator: Leveraged my skills in web and mobile development to create robust, scalable applications. Implemented continuous integration/continuous deployment (CI/CD) pipelines for efficient software deployment. Administered Windows Server and various network systems, created automated solutions for system management, and maintenance. Worked extensively with cross-platform solutions to meet diverse business needs.
 
 ## Projects
 - MobileAppPro Platform (AWS & Google Cloud versions): Developed a comprehensive platform for mobile app management and growth using various frontend and backend technologies.
