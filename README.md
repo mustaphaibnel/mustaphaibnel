@@ -1,5 +1,31 @@
 # Hello, I'm Mustapha Ibnel 👋
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/ci-cd.gif" alt="Image 1" width="100px" />
+      <br />
+      <sub>Description 1</sub>
+    </td>
+    <td align="center">
+      <img src="images/ci-cd.gif" alt="Image 2" width="100px" />
+      <br />
+      <sub>Description 2</sub>
+    </td>
+    <td align="center">
+      <img src="images/ci-cd.gif" alt="Image 3" width="100px" />
+      <br />
+      <sub>Description 3</sub>
+    </td>
+    <td align="center">
+      <img src="images/ci-cd.gif" alt="Image 4" width="100px" />
+      <br />
+      <sub>Description 4</sub>
+    </td>
+  </tr>
+</table>
+
+
 ![Banner Image](images/ci-cd.gif)
 ![Banner Image](images/ci-cd.gif)
 ## About Me
