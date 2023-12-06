@@ -7,7 +7,7 @@ I'm an experienced System Administrator and Full Stack Developer with a strong b
 <table>
   <tr>
     <td align="center">
-      <img src="images/ci-cd.gif" alt="Image 1" width="auto" />
+      <img src="images/iac.gif" alt="Image 1" width="auto" />
       <br />
       <sub>Description 1</sub>
     </td>
