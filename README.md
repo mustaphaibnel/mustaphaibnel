@@ -36,12 +36,22 @@ I'm an experienced System Administrator and Full Stack Developer with a strong b
 <table>
   <tr>
     <td align="center">
-      <img src="images/iac.gif" alt="Image 1" width="200px" />
+      <img src="images/iac.gif" alt="Image 1" width="auto" />
+      <br />
+      <strong>Infrastructure as Code and Configuration Management</strong>
+    </td>
+        <td align="center">
+      <img src="images/iac.gif" alt="Image 1" width="auto" />
+      <br />
+      <strong>Infrastructure as Code and Configuration Management</strong>
+    </td>
+        <td align="center">
+      <img src="images/iac.gif" alt="Image 1" width="auto" />
       <br />
       <strong>Infrastructure as Code and Configuration Management</strong>
     </td>
     <td align="center">
-      <img src="images/ci-cd.gif" alt="Image 2" width="200px" />
+      <img src="images/ci-cd.gif" alt="Image 2" width="auto" />
       <br />
       <strong>Comprehensive CI/CD Pipeline with Jenkins</strong>
     </td>
