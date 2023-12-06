@@ -1,5 +1,9 @@
 # Hello, I'm Mustapha Ibnel 👋
 
+## About Me
+I'm an experienced System Administrator and Full Stack Developer with a strong background in the IT industry. Passionate about leveraging my skills in various technologies, I develop efficient solutions and streamline processes.
+
+## Featured Projects
 <table>
   <tr>
     <td align="center">
@@ -17,19 +21,9 @@
       <br />
       <sub>Description 3</sub>
     </td>
-    <td align="center">
-      <img src="images/ci-cd.gif" alt="Image 4" width="auto" />
-      <br />
-      <sub>Description 4</sub>
-    </td>
   </tr>
 </table>
 
-
-![Banner Image](images/ci-cd.gif)
-![Banner Image](images/ci-cd.gif)
-## About Me
-I'm an experienced System Administrator and Full Stack Developer with a strong background in the IT industry. Passionate about leveraging my skills in various technologies, I develop efficient solutions and streamline processes.
 
 ## My Skills
 - **Technical Skills**: System and Network Administration, Web & Mobile Application Development, Automation of Deployments, Cloud Computing, Windows, Linux Servers.
