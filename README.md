@@ -1,6 +1,6 @@
 # Hello, I'm Mustapha Ibnel 👋
 
-![Banner Image](URL_TO_YOUR_BANNER_IMAGE)
+![Banner Image](images/ci-cd.gif)
 
 ## About Me
 I'm an experienced System Administrator and Full Stack Developer with a strong background in the IT industry. Passionate about leveraging my skills in various technologies, I develop efficient solutions and streamline processes.
