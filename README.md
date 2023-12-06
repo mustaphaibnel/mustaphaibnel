@@ -32,8 +32,21 @@ I'm an experienced System Administrator and Full Stack Developer with a strong b
 
 ## Featured Projects
 1. **API Deployment on EC2**
-   ![API Deployment on EC2](images/ci-cd.gif)
    Deployed a custom API on a fully managed EC2 instance, demonstrating skills in cloud services, server management, and API integration.
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/iac.gif" alt="Image 1" width="200px" />
+      <br />
+      <strong>Infrastructure as Code and Configuration Management</strong>
+    </td>
+    <td align="center">
+      <img src="images/ci-cd.gif" alt="Image 2" width="200px" />
+      <br />
+      <strong>Comprehensive CI/CD Pipeline with Jenkins</strong>
+    </td>
+  </tr>
+</table>
 
 2. **Front-End App on EKS**
    ![Front-End App on EKS](URL_TO_YOUR_EKS_PROJECT_IMAGE)
