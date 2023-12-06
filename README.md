@@ -9,12 +9,12 @@ I'm an experienced System Administrator and Full Stack Developer with a strong b
     <td align="center">
       <img src="images/iac.gif" alt="Image 1" width="auto" />
       <br />
-      <sub>Infrastructure as Code and Configuration Management</sub>
+      <strong>Infrastructure as Code and Configuration Management</strong>
     </td>
     <td align="center">
       <img src="images/ci-cd.gif" alt="Image 2" width="auto" />
       <br />
-      <sub>Comprehensive CI/CD Pipeline with Jenkins</sub>
+      <strong>Comprehensive CI/CD Pipeline with Jenkins</strong>
     </td>
   </tr>
 </table>
