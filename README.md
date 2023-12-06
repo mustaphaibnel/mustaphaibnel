@@ -16,11 +16,6 @@ I'm an experienced System Administrator and Full Stack Developer with a strong b
       <br />
       <sub>Comprehensive CI/CD Pipeline with Jenkins</sub>
     </td>
-    <td align="center">
-      <img src="images/ci-cd.gif" alt="Image 3" width="auto" />
-      <br />
-      <sub>Description 3</sub>
-    </td>
   </tr>
 </table>
 
