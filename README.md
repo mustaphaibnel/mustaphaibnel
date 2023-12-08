@@ -7,6 +7,11 @@ I'm an experienced System Administrator and Full Stack Developer with a strong b
 <table>
   <tr>
     <td align="center">
+    <td align="center">
+      <img src="images/ssl-manager.gif" alt="Image 2" width="auto" />
+      <br />
+      <strong>SSL Automate Manager (Python)</strong>
+    </td>
       <img src="images/iac.gif" alt="Image 1" width="auto" />
       <br />
       <strong>Infrastructure as Code and Configuration Management</strong>
