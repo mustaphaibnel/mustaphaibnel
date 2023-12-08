@@ -37,26 +37,27 @@ I'm an experienced System Administrator and Full Stack Developer with a strong b
 
 ## Featured Projects
 1. **API Deployment on EC2**
-   Deployed a custom API on a fully managed EC2 instance, demonstrating skills in cloud services, server management, and API integration.
+
+-Deployed a custom API on a fully managed EC2 instance, demonstrating skills in cloud services, server management, and API integration.
 <table>
   <tr>
     <td align="center">
-      <img src="images/iac.gif" alt="Image 1" width="auto" />
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
       <strong>Infrastructure as Code and Configuration Management</strong>
     </td>
         <td align="center">
-      <img src="images/iac.gif" alt="Image 1" width="auto" />
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
       <strong>Infrastructure as Code and Configuration Management</strong>
     </td>
         <td align="center">
-      <img src="images/iac.gif" alt="Image 1" width="auto" />
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
       <strong>Infrastructure as Code and Configuration Management</strong>
     </td>
     <td align="center">
-      <img src="images/ci-cd.gif" alt="Image 2" width="auto" />
+      <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
       <br />
       <strong>Comprehensive CI/CD Pipeline with Jenkins</strong>
     </td>
@@ -64,13 +65,59 @@ I'm an experienced System Administrator and Full Stack Developer with a strong b
 </table>
 
 2. **Front-End App on EKS**
-   ![Front-End App on EKS](URL_TO_YOUR_EKS_PROJECT_IMAGE)
-   Utilized Terraform and Jenkins to deploy a front-end application on EKS, showcasing expertise in Kubernetes and modern app deployment techniques.
+-Utilized Terraform and Jenkins to deploy a front-end application on EKS, showcasing expertise in Kubernetes and modern app deployment techniques.
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Infrastructure as Code and Configuration Management</strong>
+    </td>
+        <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Infrastructure as Code and Configuration Management</strong>
+    </td>
+        <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Infrastructure as Code and Configuration Management</strong>
+    </td>
+    <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
+      <br />
+      <strong>Comprehensive CI/CD Pipeline with Jenkins</strong>
+    </td>
+  </tr>
+</table>
 
 3. **App Scaling on GKE with Firebase**
-   ![App Scaling on GKE](URL_TO_YOUR_GKE_PROJECT_IMAGE)
-   Developed a scalable app hosted on GKE, employing a distributed system architecture with Firebase. Included a feature for image resizing to demonstrate proficiency in handling dynamic content.
 
+-Developed a scalable app hosted on GKE, employing a distributed system architecture with Firebase. Included a feature for image resizing to demonstrate proficiency in handling dynamic content.
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Infrastructure as Code and Configuration Management</strong>
+    </td>
+        <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Infrastructure as Code and Configuration Management</strong>
+    </td>
+        <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Infrastructure as Code and Configuration Management</strong>
+    </td>
+    <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
+      <br />
+      <strong>Comprehensive CI/CD Pipeline with Jenkins</strong>
+    </td>
+  </tr>
+</table>
 ## Currently Learning 
 Expanding my expertise in AWS and Google Cloud to optimize and scale applications.
 
