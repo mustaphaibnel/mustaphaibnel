@@ -83,83 +83,84 @@ I'm an experienced System Administrator and Full Stack Developer with a strong b
 ## Featured Projects
 1. **API Deployment on EC2**
 
--Deployed a custom API on a fully managed EC2 instance, demonstrating skills in cloud services, server management, and API integration.
+Deployed a custom API on a fully managed EC2 instance, demonstrating skills in cloud services, server management, and API integration.
 <table>
   <tr>
     <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Infrastructure as Code and Configuration Management</strong>
+      <strong>Loading...</strong>
     </td>
         <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Infrastructure as Code and Configuration Management</strong>
+      <strong>Loading...</strong>
     </td>
         <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Infrastructure as Code and Configuration Management</strong>
+      <strong>Loading...</strong>
     </td>
     <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
       <br />
-      <strong>Comprehensive CI/CD Pipeline with Jenkins</strong>
+      <strong>Loading...</strong>
     </td>
   </tr>
 </table>
 
 2. **Front-End App on EKS**
--Utilized Terraform and Jenkins to deploy a front-end application on EKS, showcasing expertise in Kubernetes and modern app deployment techniques.
+
+Utilized Terraform and Jenkins to deploy a front-end application on EKS, showcasing expertise in Kubernetes and modern app deployment techniques.
 <table>
   <tr>
     <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Infrastructure as Code and Configuration Management</strong>
+      <strong>Loading...</strong>
     </td>
         <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Infrastructure as Code and Configuration Management</strong>
+      <strong>Loading...</strong>
     </td>
         <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Infrastructure as Code and Configuration Management</strong>
+      <strong>Loading...</strong>
     </td>
     <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
       <br />
-      <strong>Comprehensive CI/CD Pipeline with Jenkins</strong>
+      <strong>Loading...</strong>
     </td>
   </tr>
 </table>
 
 3. **App Scaling on GKE with Firebase**
 
--Developed a scalable app hosted on GKE, employing a distributed system architecture with Firebase. Included a feature for image resizing to demonstrate proficiency in handling dynamic content.
+Developed a scalable app hosted on GKE, employing a distributed system architecture with Firebase. Included a feature for image resizing to demonstrate proficiency in handling dynamic content.
 <table>
   <tr>
     <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Infrastructure as Code and Configuration Management</strong>
+      <strong>Loading...</strong>
     </td>
         <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Infrastructure as Code and Configuration Management</strong>
+      <strong>Loading...</strong>
     </td>
         <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Infrastructure as Code and Configuration Management</strong>
+      <strong>Loading...</strong>
     </td>
     <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
       <br />
-      <strong>Comprehensive CI/CD Pipeline with Jenkins</strong>
+      <strong>Loading...</strong>
     </td>
   </tr>
 </table>
