@@ -27,7 +27,7 @@ I'm an experienced System Administrator and Full Stack Developer with a strong b
 ## Badges
 
 ### Certifications
-- ![IBM Certified Developer](https://img.shields.io/badge/IBM_Certified_Developer-blue.svg) ![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-red.svg) ![IBM Software Engineer Pro](https://img.shields.io/badge/IBM_Software_Engineer_Pro-yellow.svg)
+- ![IBM DevOps and Software Engineering Professional Certificate](https://img.shields.io/badge/IBM_DevOps_and_Software_Engineering_Professional_Certificate-blue.svg) ![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-red.svg)
 
 ### Programming Languages
 - ![Dart](https://img.shields.io/badge/Dart-blue.svg) ![Java](https://img.shields.io/badge/Java-orange.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg) ![PHP](https://img.shields.io/badge/PHP-purple.svg) ![Python](https://img.shields.io/badge/Python-blue.svg) ![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg) ![Mql](https://img.shields.io/badge/Mql-green.svg) ![Kotlin](https://img.shields.io/badge/Kotlin-orange.svg) ![Node.js](https://img.shields.io/badge/Node.js-green.svg) ![HTML5](https://img.shields.io/badge/HTML5-red.svg) ![CSS3](https://img.shields.io/badge/CSS3-blue.svg) ![JSON](https://img.shields.io/badge/JSON-green.svg)
