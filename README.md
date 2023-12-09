@@ -85,91 +85,206 @@ I'm an experienced System Administrator and Full Stack Developer with a strong b
 ## Experience
 - Full Stack Developer and System Administrator: Expertise in web and mobile development, CI/CD pipelines, Windows Server, and network systems administration. Specialize in cross-platform solutions for diverse business needs.
 
-## Featured Projects
-1. **API Deployment on EC2**
+## Recent Working Projects 
 
+1.**API Deployment on EC2**
 Deployed a custom API on a fully managed EC2 instance, demonstrating skills in cloud services, server management, and API integration.
+
 <table>
   <tr>
     <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Loading...</strong>
+      <strong>Soon...</strong>
     </td>
         <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Loading...</strong>
+      <strong>Soon...</strong>
     </td>
         <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Loading...</strong>
+      <strong>Soon...</strong>
     </td>
     <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
       <br />
-      <strong>Loading...</strong>
+      <strong>Soon...</strong>
     </td>
   </tr>
 </table>
 
-2. **Front-End App on EKS**
-
+2.**Front-End App on EKS**
 Utilized Terraform and Jenkins to deploy a front-end application on EKS, showcasing expertise in Kubernetes and modern app deployment techniques.
+
 <table>
   <tr>
     <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Loading...</strong>
+      <strong>Soon...</strong>
     </td>
         <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Loading...</strong>
+      <strong>Soon...</strong>
     </td>
         <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Loading...</strong>
+      <strong>Soon...</strong>
     </td>
     <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
       <br />
-      <strong>Loading...</strong>
+      <strong>Soon...</strong>
     </td>
   </tr>
 </table>
 
-3. **App Scaling on GKE with Firebase**
-
+3.**App Scaling on GKE with Firebase**
 Developed a scalable app hosted on GKE, employing a distributed system architecture with Firebase. Included a feature for image resizing to demonstrate proficiency in handling dynamic content.
+
 <table>
   <tr>
     <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Loading...</strong>
+      <strong>Soon...</strong>
     </td>
         <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Loading...</strong>
+      <strong>Soon...</strong>
     </td>
         <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
       <br />
-      <strong>Loading...</strong>
+      <strong>Soon...</strong>
     </td>
     <td align="center">
       <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
       <br />
-      <strong>Loading...</strong>
+      <strong>Soon...</strong>
     </td>
   </tr>
 </table>
+
+4.**Artify AI - AI-Generated Artwork Platform**
+Created an AI-based art generation platform compatible with mobile and web browsers using Android Java and Angular, enabling users to create unique artworks through AI algorithms.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+        <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+        <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+    <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+  </tr>
+</table>
+
+5.**Multimedia Player for Android Java**
+Developed an Android Java multimedia player app that supports music, video, and IPTV streams, offering a versatile entertainment experience.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+        <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+        <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+    <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+  </tr>
+</table>
+
+6.**Distributed System for Application Monitoring and Data Scraping**
+Built a robust distributed system for application performance monitoring and data scraping, showcasing the ability to collect and analyze large data sets efficiently.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+        <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+        <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+    <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+  </tr>
+</table>
+
+7.**Comprehensive Monitoring with Grafana and Prometheus**
+Engineered a full-scale monitoring solution integrating Grafana and Prometheus to oversee EKS, EC2, and various other services, providing in-depth insights and analytics.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+        <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+        <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+    <td align="center">
+      <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
+      <br />
+      <strong>Soon...</strong>
+    </td>
+  </tr>
+</table>
+
 ## Currently Learning 
+
 Expanding my expertise in AWS and Google Cloud to optimize and scale applications.
 
 ![Mustapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustaphaibnel&show_icons=true&theme=tokyonight)
