@@ -9,17 +9,22 @@ I'm an experienced System Administrator and Full Stack Developer with a strong b
     <td align="center">
       <img src="images/ssl-manager.gif" alt="Image 2" width="auto" />
       <br />
-      <strong>DevSecOps : SSL Automate Manager (Python)</strong>
+      <strong>#1: SSL Automate Manager (Python)</strong>
     </td>
   <td align="center">
       <img src="images/iac.gif" alt="Image 1" width="auto" />
       <br />
-      <strong>DevSecOps : IaC and Configuration Management</strong>
+      <strong>#2: IaC and Configuration Management</strong>
     </td>
     <td align="center">
       <img src="images/ci-cd.gif" alt="Image 2" width="auto" />
       <br />
-      <strong>DevSecOps : Comprehensive  CI/CD Pipeline with Jenkins</strong>
+      <strong>#3: Comprehensive  CI/CD Pipeline with Jenkins</strong>
+    </td>
+    <td align="center">
+      <img src="images/elk-stack.gif" alt="Image 2" width="auto" />
+      <br />
+      <strong>#4: Exploration of My ELK Stack Implementations </strong>
     </td>
   </tr>
 </table>
