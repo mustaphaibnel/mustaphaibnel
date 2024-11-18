@@ -1,296 +1,118 @@
-# Hello, I'm Mustapha Ibnel 👋
+# 👋 Hello, I'm Mustapha Ibn Elfarchakh
 
-## About Me
-I'm an experienced System Administrator and Full Stack Developer with a strong background in the IT industry. Passionate about leveraging my skills in various technologies, I develop efficient solutions and streamline processes.
+## 👨‍💻 About Me
+I'm an experienced **DevOps Engineer** and **Solutions Architect**, specializing in cloud-native solutions, microservices architecture, and CI/CD automation. I guide companies through digital transformation by building scalable, secure, and high-performance systems. I’m also dedicated to creating content, technical documentation, and streamlined processes for knowledge sharing.
 
-## Featured Projects
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/ssl-manager.gif" alt="Image 2" width="auto" />
-      <br />
-      <small>#1: SSL Automate Manager (Python)</small>
-    </td>
-  <td align="center">
-      <img src="images/iac.gif" alt="Image 1" width="auto" />
-      <br />
-      <small>#2: IaC and Configuration Management</small>
-    </td>
-    <td align="center">
-      <img src="images/ci-cd.gif" alt="Image 2" width="auto" />
-      <br />
-      <small>#3: Comprehensive  CI/CD Pipeline with Jenkins</small>
-    </td>
-    <td align="center">
-      <img src="images/elk-stack.gif" alt="Image 2" width="auto" />
-      <br />
-      <small>#4: Exploration of My ELK Stack Implementations </small>
-    </td>
-  </tr>
-</table>
+---
 
-## Badges
+## 🚀 Featured Projects
 
-### Certifications
-- ![IBM DevOps and Software Engineering Professional Certificate](https://img.shields.io/badge/IBM_DevOps_and_Software_Engineering_Professional_Certificate-blue.svg) ![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-red.svg)
+### 1. **CI/CD Pipeline Automation with DevSecOps Integration**
+Built a comprehensive CI/CD pipeline using Jenkins, GitHub Actions, and GitLab CI/CD, integrating security checks with Snyk and SonarQube. Automated multi-environment deployments using Terraform.
 
-### Programming Languages
-- ![Dart](https://img.shields.io/badge/Dart-blue.svg) ![Java](https://img.shields.io/badge/Java-orange.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg) ![PHP](https://img.shields.io/badge/PHP-purple.svg) ![Python](https://img.shields.io/badge/Python-blue.svg) ![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg) ![Mql](https://img.shields.io/badge/Mql-green.svg) ![Kotlin](https://img.shields.io/badge/Kotlin-orange.svg) ![Node.js](https://img.shields.io/badge/Node.js-green.svg) ![HTML5](https://img.shields.io/badge/HTML5-red.svg) ![CSS3](https://img.shields.io/badge/CSS3-blue.svg) ![JSON](https://img.shields.io/badge/JSON-green.svg)
+**Tech Stack:**  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)  
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)  
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
 
-### Back-End Technologies
-- ![Flask](https://img.shields.io/badge/Flask-green.svg) ![Django](https://img.shields.io/badge/Django-green.svg) ![Express.js](https://img.shields.io/badge/Express.js-lightgrey.svg) ![FastAPI](https://img.shields.io/badge/FastAPI-lightgrey.svg) ![SQL](https://img.shields.io/badge/SQL-blue.svg) ![NoSQL](https://img.shields.io/badge/NoSQL-green.svg)
+---
 
-### Front-End Technologies
-- ![Angular](https://img.shields.io/badge/Angular-red.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg) ![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg) ![HTML5](https://img.shields.io/badge/HTML5-red.svg) ![CSS3](https://img.shields.io/badge/CSS3-blue.svg) ![JSON](https://img.shields.io/badge/JSON-green.svg)
+### 2. **VMware vSphere to AWS Cloud Migration**
+Successfully executed a full migration of VMware vSphere workloads to AWS, leveraging Terraform for IaC and implementing disaster recovery solutions with cross-region replication.
 
-### API Tools
-- ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-green.svg) ![Swagger](https://img.shields.io/badge/Swagger-orange.svg) ![GraphQL](https://img.shields.io/badge/GraphQL-purple.svg)
+**Tech Stack:**  
+![VMware vSphere](https://img.shields.io/badge/-VMware%20vSphere-607078?logo=vmware&logoColor=white)  
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white)  
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)  
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazon-s3&logoColor=white)
 
-### Serverless Architecture
-- ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-yellow.svg) ![Amazon Web Services (AWS)](https://img.shields.io/badge/AWS-orange.svg) ![Google Cloud Functions](https://img.shields.io/badge/Google_Cloud_Functions-yellow.svg)
+---
 
-### Frameworks & Libraries
-- ![Angular](https://img.shields.io/badge/Angular-red.svg) ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple.svg) ![Laravel](https://img.shields.io/badge/Laravel-red.svg) ![Flask](https://img.shields.io/badge/Flask-green.svg) ![Django](https://img.shields.io/badge/Django-green.svg) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange.svg) ![Vue.js](https://img.shields.io/badge/Vue.js-green.svg)
+### 3. **Hybrid Cloud Solution Using Azure App Service and AWS EKS**
+Architected a multi-cloud solution using Azure App Service for frontend and AWS EKS for backend services. Automated the deployment process and integrated comprehensive monitoring.
 
-### Cloud Services
-- ![Amazon Web Services (AWS)](https://img.shields.io/badge/AWS-orange.svg) ![Google Cloud Platform (GCP)](https://img.shields.io/badge/GCP-blue.svg) ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-blue.svg)
+**Tech Stack:**  
+![Azure App Service](https://img.shields.io/badge/-Azure%20App%20Service-0078D4?logo=microsoft-azure&logoColor=white)  
+![AWS EKS](https://img.shields.io/badge/-AWS%20EKS-FF9900?logo=amazon-eks&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
-### DevOps Tools
-- ![Ansible](https://img.shields.io/badge/Ansible-red.svg) ![Docker](https://img.shields.io/badge/Docker-blue.svg) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-lightgrey.svg) ![Jenkins](https://img.shields.io/badge/Jenkins-red.svg) ![Kubernetes (K8s)](https://img.shields.io/badge/Kubernetes-blue.svg) ![OpenShift](https://img.shields.io/badge/OpenShift-red.svg) ![Sonar](https://img.shields.io/badge/Sonar-blue.svg)
+---
 
-### Monitoring Tools
-- ![Kibana](https://img.shields.io/badge/Kibana-green.svg) ![Grafana](https://img.shields.io/badge/Grafana-orange.svg) ![Prometheus](https://img.shields.io/badge/Prometheus-yellow.svg) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-blue.svg) ![Nagios](https://img.shields.io/badge/Nagios-red.svg)
+### 4. **GraphQL Federation for Scalable Microservices**
+Implemented a microservices architecture using GraphQL Federation with Apollo Server, enabling a unified API gateway with enhanced caching and PostgreSQL data separation.
 
-### Testing Tools
-- ![PyTest](https://img.shields.io/badge/PyTest-green.svg) ![UnitTest](https://img.shields.io/badge/UnitTest-green.svg) ![Soap UI](https://img.shields.io/badge/Soap_UI-lightgrey.svg) ![Postman](https://img.shields.io/badge/Postman-orange.svg)
+**Tech Stack:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)  
+![Apollo Server](https://img.shields.io/badge/-Apollo%20Server-311C87?logo=apollographql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
-### Methodologies
-- ![Agile (Kanban)](https://img.shields.io/badge/Agile-Kanban-blue.svg) ![Agile (Scrum)](https://img.shields.io/badge/Agile-Scrum-blue.svg) ![DevOps Best Practices](https://img.shields.io/badge/DevOps_Best_Practices-blue.svg)
+---
 
-### Cloud Architecture
-- ![Cloud Native](https://img.shields.io/badge/Cloud_Native-blue.svg) ![Infrastructure as a Service (IaaS)](https://img.shields.io/badge/IaaS-lightgrey.svg) ![Platform as a Service (PaaS)](https://img.shields.io/badge/PaaS-lightgrey.svg) ![Software as a Service (SaaS)](https://img.shields.io/badge/SaaS-lightgrey.svg)
+### 5. **Mobile Multi-Device Media Player**
+Developed a mobile media player app with support for multiple devices, capable of playing music, video, and IPTV streams. This project focused on delivering a smooth user experience with optimized playback features across Android devices.
 
-### Software Engineering
-- ![Behavior-Driven Development](https://img.shields.io/badge/BDD-blue.svg) ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-blue.svg) ![Multi-cloud](https://img.shields.io/badge/Multi-cloud-blue.svg) ![Test-Driven Development](https://img.shields.io/badge/TDD-blue.svg)
+**Tech Stack:**  
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 
+---
 
+### 6. **Low-Code Platform for Mobile App Development**
+Created a low-code platform for rapid mobile app development, featuring pre-built templates and an intuitive interface for building custom apps. The platform includes user tracking and analytics capabilities for data-driven decision-making.
 
-## My Skills
-- **Technical Skills**: System and Network Administration, Web & Mobile Application Development, Automation of Deployments, Cloud Computing, Windows, Linux Servers.
-- **Management Skills**: Task Prioritization, Team Leadership, Strategic Planning, Problem-Solving, Time Management.
-- **Languages**: Arabic, English, French.
+**Tech Stack:**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b5f7f40a49b0be0ed77f8b?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend%2Cdevops)](https://roadmap.sh)
+---
 
-## Experience
-- Full Stack Developer and System Administrator: Expertise in web and mobile development, CI/CD pipelines, Windows Server, and network systems administration. Specialize in cross-platform solutions for diverse business needs.
+### 7. **Artify AI - AI-Generated Artwork Platform**
+Developed an AI-driven art generation platform using Kotlin and C++, enabling users to create unique digital artworks through AI algorithms. The platform supports mobile and web interfaces, offering an immersive user experience.
 
-## Recent Working Projects 
+**Tech Stack:**  
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
-1.**API Deployment on EC2**
-Deployed a custom API on a fully managed EC2 instance, demonstrating skills in cloud services, server management, and API integration.
+---
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-        <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-        <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-    <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-  </tr>
-</table>
+### 8. **AI Cross-Agent Documentation Generator Using RAG**
+Built an AI-powered documentation generator using Retrieval-Augmented Generation (RAG), integrating multiple data sources to create accurate, well-structured content. The system supports dynamic updates and collaboration across various AI agents.
 
-2.**Front-End App on EKS**
-Utilized Terraform and Jenkins to deploy a front-end application on EKS, showcasing expertise in Kubernetes and modern app deployment techniques.
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![LangChain](https://img.shields.io/badge/-LangChain-FF5733?logo=langchain&logoColor=white)  
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-        <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-        <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-    <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-  </tr>
-</table>
+---
 
-3.**App Scaling on GKE with Firebase**
-Developed a scalable app hosted on GKE, employing a distributed system architecture with Firebase. Included a feature for image resizing to demonstrate proficiency in handling dynamic content.
+### 9. **Secure API Gateway with Advanced Access Control**
+Developed a secure API gateway using JWT tokens for authentication, integrating offline validation with enhanced security measures.
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-        <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-        <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-    <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-  </tr>
-</table>
+**Tech Stack:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white)
 
-4.**Artify AI - AI-Generated Artwork Platform**
-Created an AI-based art generation platform compatible with mobile and web browsers using Android Java and Angular, enabling users to create unique artworks through AI algorithms.
+---
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-        <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-        <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-    <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-  </tr>
-</table>
+## 🎓 Certifications
+- **Apollo GraphQL Certification**
+- **IBM DevOps and Software Engineering Professional Certificate**
+- **Cisco CCNA Certification**
 
-5.**Multimedia Player for Android Java**
-Developed an Android Java multimedia player app that supports music, video, and IPTV streams, offering a versatile entertainment experience.
+---
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-        <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-        <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-    <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-  </tr>
-</table>
+## ✍️ Content Creation and Documentation
+I actively create detailed technical documentation, tutorials, and video content for efficient knowledge sharing and streamlined onboarding.
 
-6.**Distributed System for Application Monitoring and Data Scraping**
-Built a robust distributed system for application performance monitoring and data scraping, showcasing the ability to collect and analyze large data sets efficiently.
+---
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-        <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-        <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-    <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-  </tr>
-</table>
-
-7.**Comprehensive Monitoring with Grafana and Prometheus**
-Engineered a full-scale monitoring solution integrating Grafana and Prometheus to oversee EKS, EC2, and various other services, providing in-depth insights and analytics.
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-        <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-        <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 1" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-    <td align="center">
-      <img src="images/palceholder-project.jpg" alt="Image 2" width="auto" />
-      <br />
-      <strong>Soon...</strong>
-    </td>
-  </tr>
-</table>
-
-## Currently Learning 
-
-Expanding my expertise in AWS and Google Cloud to optimize and scale applications.
-
-![Mustapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustaphaibnel&show_icons=true&theme=tokyonight)
-
-## Connect with Me 
-- 📧 Email: [mustapha.ibnel@mail.com](mailto:mustapha.ibnel@mail.com)
-- 🗨️ LinkedIn: [mustaphaibnel](https://linkedin.com/in/mustaphaibnel)
-- 🐦 Twitter: [@mustaphaibnel](https://twitter.com/mustaphaibnel)
-- 📸 Instagram: [@mustaphaibnel](https://instagram.com/mustaphaibnel)
+## 📫 Connect with Me
+- 📧 Email: [mustaphaibnel@gmail.com](mailto:mustaphaibnel@gmail.com)
+- 💼 LinkedIn: [Mustapha Ibn Elfarchakh](https://linkedin.com/in/mustaphaibnel)
+- 📅 Book a Meeting: [Calendly](https://calendly.com/mustapha-ibnel/general-appointments-meetings)
