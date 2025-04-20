@@ -21,6 +21,7 @@ Welcome to my open portfolio. This repository documents my key technical project
 ### 🧠 Software Engineering Lead | DevOps Architect | Cloud Specialist
 
 I’m a multi-certified engineer and technical leader with 10+ years of experience delivering end-to-end digital solutions. My background spans cloud-native architecture, DevOps automation, mobile and full-stack development, and scalable infrastructure design.
+
 ---
 
 ### 👨‍💻 About Me
