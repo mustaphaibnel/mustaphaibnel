@@ -12,13 +12,19 @@ Jump to any section quickly:
 - [📫 Contact & Links](#-contact--links)
 
 
+
 Welcome to my open portfolio. This repository documents my key technical projects — each in its own directory with structured README files, diagrams, and real-world implementation notes.
+
 
 ## 👋 Hello, I'm Mustapha Ibn Elfarchakh
 
 ### 🧠 Software Engineering Lead | DevOps Architect | Cloud Specialist
 
 I’m a multi-certified engineer and technical leader with 10+ years of experience delivering end-to-end digital solutions. My background spans cloud-native architecture, DevOps automation, mobile and full-stack development, and scalable infrastructure design.
+---
+
+### 👨‍💻 About Me
+I'm an experienced **DevOps Engineer** and **Solutions Architect**, specializing in cloud-native solutions, microservices architecture, and CI/CD automation. I guide companies through digital transformation by building scalable, secure, and high-performance systems. I’m also dedicated to creating content, technical documentation, and streamlined processes for knowledge sharing.
 
 ---
 
@@ -53,10 +59,6 @@ I’m a multi-certified engineer and technical leader with 10+ years of experien
 - 📅 Book a Meeting: [Calendly](https://calendly.com/mustapha-ibnel/general-appointments-meetings)
 - 📂 Portfolio: [GitHub Repos](https://github.com/mustaphaibnel?tab=repositories)
 
----
-
-### 👨‍💻 About Me
-I'm an experienced **DevOps Engineer** and **Solutions Architect**, specializing in cloud-native solutions, microservices architecture, and CI/CD automation. I guide companies through digital transformation by building scalable, secure, and high-performance systems. I’m also dedicated to creating content, technical documentation, and streamlined processes for knowledge sharing.
 
 ---
 
